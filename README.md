@@ -6,12 +6,6 @@ Welcome! This project aims to enhance your productivity by providing an advanced
 
 The **Ninja Markdown Plugin** is designed to streamline the creation and formatting of Markdown documents. This plugin provides a utility to automatically generate a Table of Contents (ToC) from any Markdown file. It updates headers to be clickable links, facilitating quick navigation within the document. This tool is particularly useful for improving productivity and managing large Markdown note files.
 
-_**Turn this**_:
-![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/61a9aad1-c8fc-4470-92bd-c549e142b4d2)
-
-_**Into this**_: 
-![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/feb361d7-9671-4ef9-8c3d-34607122ebc3)
-
 ## Why Use This Plugin
 
 Markdown is a lightweight markup language with plain-text formatting syntax. Its simplicity and ease of use have made it popular for a variety of applications, including note-taking, documentation, and content creation. Here are some advantages:
@@ -54,12 +48,18 @@ The script is designed to be used with Markdown flavored formatting, providing v
 
 ### Example Usage
 
+*Original .md text*
+![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/61a9aad1-c8fc-4470-92bd-c549e142b4d2)
+
 To run the script, simply use the command:
 
 ```shell
 C:\Users\user\OneDrive\Documents\Obsidian Vault> python headers.py "C:\Bakcup\Obsidian Bakcup\Notes\mynote.md"
 Success!
 ```
+
+*Appended ToC into original text*
+![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/feb361d7-9671-4ef9-8c3d-34607122ebc3)
 
 Here are some specific uses of Markdown and the advantages it brings:
 
