@@ -42,21 +42,23 @@ Markdown is a lightweight markup language with plain-text formatting syntax. Its
     python headers.py <filename>
     ```
 
-## Usage
+### Example Usage
 
 The script is designed to be used with Markdown flavored formatting, providing various utilities for handling Markdown files.
 
-### Example Usage
+- *Before*
 
 *Original .md text*
 ![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/61a9aad1-c8fc-4470-92bd-c549e142b4d2)
 
-To run the script, simply use the command:
+- *To run the script, simply use the command*:
 
 ```shell
 C:\Users\user\OneDrive\Documents\Obsidian Vault> python headers.py "C:\Bakcup\Obsidian Bakcup\Notes\mynote.md"
 Success!
 ```
+
+- *After*
 
 *Appended ToC into original .md text*
 ![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/feb361d7-9671-4ef9-8c3d-34607122ebc3)
