@@ -90,6 +90,10 @@ If you encounter any issues, questions, comments or have a features request for 
 
 - [Andrei P.](https://github.com/Zenetusken)
 
+### Version history: 
+
+- 1.0.0 [*Created branching to support future changes to the repository]
+
 ## License
 
 My own personal work and open source.
