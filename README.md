@@ -97,8 +97,6 @@ If you encounter any issues, questions, comments or have a features request for 
 
 My own personal work and open source.
 
----
-
 _This README file will be continuously updated to include more features and improvements. Stay tuned for updates!_
 
 # Version tracker
