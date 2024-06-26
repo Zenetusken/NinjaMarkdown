@@ -101,6 +101,4 @@ _This README file will be continuously updated to include more features and impr
 
 # Version tracker
 
-## Version history: 
-
 - 1.0.0 [*Created branching to support future changes to the repository*]
