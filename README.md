@@ -99,6 +99,6 @@ My own personal work and open source.
 
 _This README file will be continuously updated to include more features and improvements. Stay tuned for updates!_
 
-# Version tracker
+## Version tracker
 
 - 1.0.0 [*Created branching to support future changes to the repository*]
