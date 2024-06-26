@@ -58,7 +58,7 @@ C:\Users\user\OneDrive\Documents\Obsidian Vault> python headers.py "C:\Bakcup\Ob
 Success!
 ```
 
-*Appended ToC into original text*
+*Appended ToC into original .md text*
 ![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/feb361d7-9671-4ef9-8c3d-34607122ebc3)
 
 Here are some specific uses of Markdown and the advantages it brings:
