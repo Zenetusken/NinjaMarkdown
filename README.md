@@ -3,16 +3,16 @@
 Welcome! This project aims to enhance your productivity by providing an advanced Markdown formatting features. The current version of the application is a Python script that runs from the desktop command line on Windows 10 or 11.
 
 ## Project Overview
----
 
 The **Ninja Markdown Plugin** is designed to streamline the creation and formatting of Markdown documents. This plugin provides a utility to automatically generate a Table of Contents (ToC) from any Markdown file. It updates headers to be clickable links, facilitating quick navigation within the document. This tool is particularly useful for improving productivity and managing large Markdown note files.
 
 _**Turn this**_:
+![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/61a9aad1-c8fc-4470-92bd-c549e142b4d2)
 
 _**Into this**_: 
+![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/feb361d7-9671-4ef9-8c3d-34607122ebc3)
 
 ## Why Use This Plugin
----
 
 Markdown is a lightweight markup language with plain-text formatting syntax. Its simplicity and ease of use have made it popular for a variety of applications, including note-taking, documentation, and content creation. Here are some advantages:
 
@@ -21,7 +21,6 @@ Markdown is a lightweight markup language with plain-text formatting syntax. Its
 - **Compatibility:** Many note-taking apps support Markdown, allowing for seamless integration and greater productivity.
 
 ## Installation and Setup
----
 
 ### Prerequisites
 
@@ -50,7 +49,6 @@ Markdown is a lightweight markup language with plain-text formatting syntax. Its
     ```
 
 ## Usage
----
 
 The script is designed to be used with Markdown flavored formatting, providing various utilities for handling Markdown files.
 
@@ -70,7 +68,6 @@ Here are some specific uses of Markdown and the advantages it brings:
 - **Integration with Other Tools:** Markdown serves as a baseline for other tools such as parsers for various programming languages, enabling seamless integration and processing for developers.
 
 ## Features
----
 
 - **Automatic Table of Contents:** Generates a ToC for your Markdown document.
 - **Clickable Headers:** Each header becomes a clickable link for quick navigation within the document.
@@ -78,7 +75,6 @@ Here are some specific uses of Markdown and the advantages it brings:
 - **In-place Updates:** The script updates the existing Markdown file without creating a new one.
 
 ## Future Plans
----
 
 Currently, these instructions are for a Windows-based environment, specifically Windows 10 or 11. In the future, the plugin will be directly integrated with Obsidian, which I consider the most advanced and robust editor available.
 
