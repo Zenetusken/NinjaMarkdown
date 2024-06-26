@@ -6,6 +6,12 @@ Welcome to the **Ninja Markdown Plugin** repository! This project aims to enhanc
 
 The **Ninja Markdown Plugin** is designed to streamline the creation and formatting of Markdown documents. This plugin provides a utility to automatically generate a Table of Contents (ToC) from any Markdown file. It updates headers to be clickable links, facilitating quick navigation within the document. This tool is particularly useful for improving productivity and managing large Markdown note files.
 
+Turn this: 
+![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/a015ed8e-7114-4f7e-b2f3-ca0ea9db7f45)
+
+Into this: 
+![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/fa6224bc-9a68-4277-8e9f-89a52e844dbf)
+
 ## Why Use This Plugin
 
 Markdown is a lightweight markup language with plain-text formatting syntax. Its simplicity and ease of use have made it popular for a variety of applications, including note-taking, documentation, and content creation. Here are some advantages:
