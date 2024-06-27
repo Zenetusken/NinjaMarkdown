@@ -53,7 +53,7 @@ The script is designed to be used with Markdown flavored formatting, providing v
   Success!
   ```
 
-- *We get*:
+- *We get this as a resuly inside the original file*:
 
 <p align="center">
   <img src="https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/6c60c51c-40d4-4ab6-a7f9-bd1a38802369" alt="Markdown Example 2" style="border: 3px solid white; padding: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
