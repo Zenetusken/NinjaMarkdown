@@ -99,15 +99,6 @@ _This README file will be continuously updated to include more features and impr
 
 ## Current Version Changelog and Tracker
 
-### Current version updates
-
-- Now you can basically launch the script from anywhere inside the command line, not just restricted to being in the same folder as the script file.
-- New user PROMPTS!
-- Detecs when the PATH variable is set and doesn't prompt further if true.
-- Will not create new header ID's if one is already present and will use that one for link.
-
-### Version Tracker
-
 - **1.0.1** [*Created fuctionality with the Windows PATH variable plus new user prompts when executing the script*]
   - Can launch the script from any directory in the command line. 
   - New user PROMPTS!
