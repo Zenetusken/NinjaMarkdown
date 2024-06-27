@@ -48,13 +48,14 @@ The script is designed to be used with Markdown flavored formatting, providing v
 
 ![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/f12a99c4-971c-452d-a02b-ad90ec7fbff7)
 
-
 - *To run the script, simply use the command*:
 
 ```shell
 C:\Users\user\OneDrive\Documents\Obsidian Vault> python headers.py "C:\Bakcup\Obsidian Bakcup\Notes\mynote.md"
 Success!
 ```
+
+- *We get*:
 
 ![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/6c60c51c-40d4-4ab6-a7f9-bd1a38802369)
 
