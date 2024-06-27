@@ -46,9 +46,6 @@ Markdown is a lightweight markup language with plain-text formatting syntax. Its
 
 The script is designed to be used with Markdown flavored formatting, providing various utilities for handling Markdown files.
 
-**Before**
-
-*Original .md text*
 ![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/f12a99c4-971c-452d-a02b-ad90ec7fbff7)
 
 
@@ -59,11 +56,7 @@ C:\Users\user\OneDrive\Documents\Obsidian Vault> python headers.py "C:\Bakcup\Ob
 Success!
 ```
 
-**After**
-
-*Appended ToC into original .md text*
 ![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/6c60c51c-40d4-4ab6-a7f9-bd1a38802369)
-
 
 Here are some specific uses of Markdown and the advantages it brings:
 
