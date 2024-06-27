@@ -49,7 +49,8 @@ The script is designed to be used with Markdown flavored formatting, providing v
 **Before**
 
 *Original .md text*
-![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/61a9aad1-c8fc-4470-92bd-c549e142b4d2)
+![Markdown_Example1](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/f12a99c4-971c-452d-a02b-ad90ec7fbff7)
+
 
 - *To run the script, simply use the command*:
 
@@ -61,7 +62,8 @@ Success!
 **After**
 
 *Appended ToC into original .md text*
-![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/feb361d7-9671-4ef9-8c3d-34607122ebc3)
+![Markdown_Example2](https://github.com/Zenetusken/NinjaMarkdown/assets/173852206/6c60c51c-40d4-4ab6-a7f9-bd1a38802369)
+
 
 Here are some specific uses of Markdown and the advantages it brings:
 
